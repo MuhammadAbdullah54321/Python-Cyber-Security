@@ -1,9 +1,0 @@
-# Muhammad Abdullah - 503519
-
-name = input("Enter any name: ")
-
-for c in name: 
-  first = name[0]
-  remaining = name[1:]
-  name = remaining + first
-  print(name)
